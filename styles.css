@@ -1,0 +1,28 @@
+body{
+color: white;
+background: black;
+margin: 0px
+}
+
+header{
+    border-bottom: solid 2px rgb(0, 128, 0);
+padding: 20px;
+font-size: 20 px;
+color: rgb(0, 128, 0);
+}
+
+section{
+    background : rgb(213,162,25);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right:5%;
+}
+
+img {
+    height:200px;
+}
